@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "mods.zip;." --add-data "multimedia/background.png;multimedia" --add-data "multimedia/download.png;multimedia" --add-data "multimedia/img.ico;multimedia" --add-data "multimedia/play.png;multimedia" --add-data "multimedia/reinstall.png;multimedia" --add-data "multimedia/title.png;multimedia" -F -i multimedia/img.ico program.py
