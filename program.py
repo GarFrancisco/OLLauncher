@@ -144,7 +144,7 @@ def download_files():
 
     def run_download_process():
         forge_version = minecraft_launcher_lib.forge.find_forge_version('1.12.2')
-        # Forge is included on the zip file. The commented command is for the installation of forge.
+        # Forge is included on the zip file. This is the fastest way to install it. Another way is the commented command.
         # minecraft_launcher_lib.forge.install_forge_version(forge_version, minecraft_folder)
 
         # Update progress bar for unzipping process
