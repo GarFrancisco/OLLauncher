@@ -25,3 +25,5 @@ Before clicking on PLAY, you will have to choose a name (in this version, only t
 6- With the slider bar you can choose the RAM memory that the game will use. The minimum is 7GB, but it is recommended from 9GB to avoid performance problems (in case of big modpacks).
 
 7- Once you click on PLAY, the game will load.
+
+In "program.py" you will have the full code of the launcher.
